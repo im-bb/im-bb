@@ -1,11 +1,11 @@
 <h1 align="center">ʜɪ<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,ɪ'ᴍ ᴋᴜsʜᴀɴ</h1>
 <h3 align="center">ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ sʀɪʟᴀɴᴋᴀ🇱🇰.ɪ'ᴍ sᴛɪʟʟ ʟᴇᴀʀɪɴɢ.<h3>
   
-- 👀 ɪ'ᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ʙᴀsᴇᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs.
-- 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ.
-- 💞 ᴀsᴋ ᴍᴇ ᴀɴʏᴛʜɪɴɢ ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
-- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](kusan:kusanjerom@gmail.com).
-- 👨‍🎓 ғᴜɴ ғᴀᴄᴛ-sᴛɪʟʟ sᴛᴜᴅᴇɴᴛ.
+- 👀 ɪ'ᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ʙᴀsᴇᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs
+- 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ
+- 💞 ᴀsᴋ ᴍᴇ ᴀɴʏᴛʜɪɴɢ ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](kusan:kusanjerom@gmail.com)
+- 👨‍🎓 ғᴜɴ ғᴀᴄᴛ-sᴛɪʟʟ sᴛᴜᴅᴇɴᴛ
  
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
