@@ -1,5 +1,5 @@
 <h1 align="center">ʜɪ<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,ɪ'ᴍ ᴋᴜsʜᴀɴ</h1>
-<h3 align="center">ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ sʀɪʟᴀɴᴋᴀ🇱🇰 ,ɪ'ᴍ sᴛɪʟʟ ʟᴇᴀʀɪɴɢ.<h3>
+<h3 align="center">ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ sʀɪʟᴀɴᴋᴀ 🇱🇰,ɪ'ᴍ sᴛɪʟʟ ʟᴇᴀʀɪɴɢ.<h3>
   
 - 👀 ɪ'ᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ʙᴀsᴇᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ
