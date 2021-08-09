@@ -7,7 +7,7 @@
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: ![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white) or ![Telegeam](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 - 👨‍🎓 ғᴜɴ ғᴀᴄᴛ-sᴛɪʟʟ sᴛᴜᴅᴇɴᴛ
  
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=300px/>
 
 <h3 align="left">👤 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ:</h3>
 <p align="left">
